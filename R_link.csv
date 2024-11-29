@@ -1,4 +1,4 @@
-﻿分类,名称,来源,网址
+﻿分类,网站名称,来源,网址
 概率论,看见概率论,阮一峰的网络日志,https://probability.visualized.fun/
 预报,Windy,Windy,"https://www.windy.com/?39.907,116.397,5"
 预报,中国每小时天气预报,The Weather Channel,https://weather.com/zh-CN/weather/hourbyhour/l/CHXX0266:1:CH
@@ -12,3 +12,4 @@
 可视化,图表用法,AntV,https://antv-2018.alipay.com/zh-cn/vis/chart/index.html
 可视化,设计原则,AntV,https://antv.antgroup.com/specification/principles/basic
 可视化,地图整形器,用于编辑 Shapefile、GeoJSON、TopoJSON 和 CSV 文件的工具,https://mapshaper.org/
+可视化,数据可视化工具目录,数据可视化工具,https://datavizcatalogue.com/ZH/
