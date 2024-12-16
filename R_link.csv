@@ -1,5 +1,8 @@
 ﻿分类,网站名称,来源,网址
-概率论,看见概率论,阮一峰的网络日志,https://probability.visualized.fun/
+预报,河北省空气质量预测报告（周报）,省生态环境应急与重污染天气预警中心,https://hbepb.hebei.gov.cn/hbhjt/zwgk/fdzdgknr/zdlyxxgk/daqiyujing/zwrtqyjyxy/
+公布,全省空气质量排名情况通报,河北省生态环境厅,https://hbepb.hebei.gov.cn/hbhjt/zwgk/fdzdgknr/zdlyxxgk/dqhjgl/
+实时数据,全国城市空气质量实时发布平台,中国环境监测总站,https://air.cnemc.cn:18007/
+实时数据,河北省空气质量自动监测及发布系统,河北省生态环境厅,http://218.11.10.130:8080/#/application/home
 预报,Windy,Windy,"https://www.windy.com/?39.907,116.397,5"
 预报,中国每小时天气预报,The Weather Channel,https://weather.com/zh-CN/weather/hourbyhour/l/CHXX0266:1:CH
 预报,空气质量预报发布系统,空气质量预报发布系统,https://air.cnemc.cn:18014/
@@ -13,3 +16,4 @@
 可视化,设计原则,AntV,https://antv.antgroup.com/specification/principles/basic
 可视化,地图整形器,用于编辑 Shapefile、GeoJSON、TopoJSON 和 CSV 文件的工具,https://mapshaper.org/
 可视化,数据可视化工具目录,数据可视化工具,https://datavizcatalogue.com/ZH/
+概率论,看见概率论,阮一峰的网络日志,https://probability.visualized.fun/
